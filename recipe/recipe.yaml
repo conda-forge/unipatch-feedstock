@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "1.0.0"
+  version: "1.0.1"
 
 package:
   name: unipatch
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/u/unipatch/unipatch-${{ version }}.tar.gz
-  sha256: 993df2fe49f8114a95eaaf088ecf498c0dd20a8387caa17d63e8d1c29ea50af1
+  sha256: 876199e2ca3e74fb45afa6fb15caf8a5f076556dbecc3fc4864488bfe3b2b07f
 
 build:
   number: 0
